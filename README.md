@@ -42,53 +42,29 @@ Edit
 | CTEs & Nested Queries  | ✅         |
 
 ---
-
-## 🔍 Sample Problem: [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
-
-**SQL Query:**
-```sql
-SELECT MAX(Salary) AS SecondHighestSalary
-FROM Employee
-WHERE Salary < (SELECT MAX(Salary) FROM Employee);
-🧰 Tools Used
+## 🧰 Tools Used
 🛢️ MySQL / PostgreSQL
-
 🧑‍💻 LeetCode SQL Editor
-
 📝 Markdown (for formatting)
-
 🧩 Git + GitHub
 
-🚀 How to Use
-Clone this repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/LeetCode-SQL-Solutions.git
-Explore the categorized folders: Easy, Medium, Hard
-
-Open .sql files and run them in any SQL environment like:
-
-DB Fiddle
-
-LeetCode Playground
-
-Local MySQL/PostgreSQL
-
-🌟 Highlights
+## 🌟 Highlights
 ✨ Clean & Structured Code
 ✨ Consistent Naming Convention
 ✨ Commented for Clarity (if needed)
 ✨ Growing Weekly with New Problems
 
-🔗 Connect with Me
+## 🔗 Connect with Me
+    👉 LinkedIn
+    👉 GitHub
+    👉 LeetCode
 
 
-💫 Thank You!
-Thank you for visiting this repository. If you find it helpful, ⭐️ star this repo and follow me for more data-driven content!
 
-"Consistency in solving small problems leads to big growth in skills." 💪
+## 💫 Thank You!
+## Thank you for visiting this repository. If you find it helpful, ⭐️ star this repo and follow me for more data-driven content!
+
+## "Consistency in solving small problems leads to big growth in skills." 💪
 
 
 
